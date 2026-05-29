@@ -35,7 +35,7 @@ public class Basic extends BaseClass{
 	}
 	
 	@Test(priority = 0)
-	public void register()
+	public void registerTest()
 	{
 		
 		RegisterPageObjects r = new RegisterPageObjects(driver);
